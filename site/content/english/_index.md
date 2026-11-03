@@ -43,6 +43,6 @@ features:
       - "Unity · 개인 제작"
     button:
       enable: true
-      label: "자세히 보기"
-      link: "about/"
+      label: "게임 글 보기"
+      link: "blog/unity-2d-game/"
 ---
