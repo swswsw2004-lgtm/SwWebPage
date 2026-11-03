@@ -1,57 +1,48 @@
 ---
-# Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jump-start your Hugo project and save valuable time."
+  title: "안녕하세요, 안성우입니다"
+  content: "웹 개발과 게임 개발에 관심을 갖고, 직접 만들어 보며 배우고 있는 대학생입니다."
   image: "/images/banner.png"
-  image_alt: "Illustration of a person working on a laptop at a desk"
+  image_alt: ""
   button:
     enable: true
-    label: "Fork Deploy and Edit Online 🚀"
-    link: "https://app.sitepins.com/new/clone?name=Hugoplate&repository=https://github.com/zeon-studio/hugoplate?aff=hugoplate"
+    label: "자기소개 보기"
+    link: "about/"
 
-# Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "관심 분야"
     image: "/images/service-1.png"
-    image_alt: "Illustration of interface cards: a video player, bar charts, sliders and a loading spinner"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    image_alt: ""
+    content: "누구나 브라우저에서 바로 볼 수 있는 결과물을 만들 수 있다는 점에서 웹 개발에, 내가 만든 규칙과 화면으로 사람들이 직접 즐길 수 있다는 점에서 게임 개발에 관심을 갖게 되었습니다."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
-
-  - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
-    image_alt: "Illustration of chart cards: bar charts, a donut chart and a line graph"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-    bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "**웹 개발**: 정적 사이트 생성(Hugo), HTML·CSS, 배포 자동화(GitHub Actions)"
+      - "**게임 개발**: Unity를 이용한 게임 기획과 간단한 게임 구현"
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      label: "자세히 보기"
+      link: "about/"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    image_alt: "Illustration of dashboard widgets: a line graph, sliders, a progress list and a donut chart"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+  - title: "대표 활동"
+    image: "/images/service-2.png"
+    image_alt: ""
+    content: "초급프로젝트 과제로 Hugo 테마를 내 사이트로 바꾸고, GitHub Actions로 자동 배포되는 개인 포트폴리오 사이트를 만들었고 Unity를 이용하여 간단한 게임을 기획하고 간단한 게임을 만들어봤습니다."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "2026년 11월 · 진행 중 (개인 과제)"
+      - "Hugo · Git/GitHub · GitHub Actions · GitHub Pages"
     button:
-      enable: false
-      label: ""
-      link: ""
+      enable: true
+      label: "활동 보기"
+      link: "blog/"
+
+  - title: "Unity 2D 게임 제작"
+    image: "/images/service-3.png"
+    image_alt: ""
+    content: "Unity로 캐릭터 이동과 점수 기능을 구현한 간단한 2D 게임을 만들며 게임 개발의 기본 흐름을 경험했습니다."
+    bulletpoints:
+      - "2026년 8월 · 2026년 9월 완료"
+      - "Unity · 개인 제작"
+    button:
+      enable: true
+      label: "자세히 보기"
+      link: "about/"
 ---
