@@ -1,6 +1,6 @@
 ################ English language ##################
 [en]
-label = "En"
-locale = "en-us"
+label = "한국어"
+locale = "ko-kr"
 contentDir = "content/english"
 weight = 1
