@@ -1,20 +1,38 @@
 ---
-title: "Hey, I am John Doe!"
-meta_title: "About"
-description: "this is meta description"
-image: "/images/image-placeholder.png"
+title: "안성우를 소개합니다"
+meta_title: "소개"
+description: "웹 개발과 게임 개발에 관심 있는 안성우의 관심 분야, 학습 목표, 역량"
 layout: "about"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+안녕하세요, 웹 개발과 게임 개발에 관심을 갖고 직접 만들어 보며 배우고 있는 안성우입니다.
 
-### This is a title
+## 관심 분야
 
-* Lorem ipsum, dolor sit amet
-* Enim voluptatem dicta expedita veritatis
-* Fugit voluptatibus perspiciatis assumenda
-* Enim voluptatem dicta expedita
-* Corporis illum nesciunt commodi vel
+### 웹 개발
+누구나 브라우저만 있으면 바로 볼 수 있는 결과물을 만들 수 있다는 점이 매력적이라고 느꼈습니다. 이번 과제로 Hugo 테마를 제 사이트로 바꾸고 GitHub Actions로 자동 배포까지 해 보면서, 코드를 수정해 push하면 실제 공개 사이트가 바뀌는 과정에 흥미를 갖게 되었습니다.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+### 게임 개발
+내가 정한 규칙과 화면으로 다른 사람이 직접 즐길 수 있다는 점에서 게임 개발에 관심이 있습니다. Unity로 캐릭터 이동과 점수 기능을 구현한 간단한 2D 게임을 만들며, 내가 짠 코드대로 캐릭터가 움직이는 것을 보고 개발의 재미를 느꼈습니다.
+
+## 학습 목표와 실행 계획
+
+- **목표:** Unity로 이미지부터 사운드까지 넣어서 완성된 2D 게임 1개를 만들고, 이 사이트에 결과를 공개하기
+- **다음 행동:**
+  1. 이전에 만든 2D 게임에 장애물·게임 오버·재시작 기능을 한 주에 하나씩 추가하기
+  2. 프로젝트를 GitHub 저장소에 올려 기능마다 커밋으로 기록하기
+  3. 완성 후 플레이 화면 캡처와 제작 과정을 이 사이트의 활동 글로 정리하기
+
+## 사용하는 기술과 적용 사례
+
+| 기술·도구 | 실제로 써 본 곳 |
+|---|---|
+| Git / GitHub | 이 사이트를 작은 커밋 단위로 관리하고 원격 저장소에 공개 |
+| GitHub Actions · Pages | main에 push하면 사이트가 자동으로 빌드·배포되도록 설정 |
+| Hugo | Hugoplate 테마의 설정·메뉴·콘텐츠를 바꿔 이 사이트 제작 |
+| Unity | 키 입력으로 캐릭터가 움직이고 점수가 올라가는 2D 게임 제작 |
+
+## 연락
+
+- GitHub: [swswsw2004-lgtm](https://github.com/swswsw2004-lgtm)
