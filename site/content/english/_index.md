@@ -11,8 +11,8 @@ banner:
 
 features:
   - title: "관심 분야"
-    image: "/images/service-1.png"
-    image_alt: ""
+    image: "/images/home/home-interest.png"
+    image_alt: "웹 개발을 뜻하는 웹페이지 브라우저 창과 게임 개발을 뜻하는 2D 게임 창, 게임 컨트롤러 일러스트"
     content: "누구나 브라우저에서 바로 볼 수 있는 결과물을 만들 수 있다는 점에서 웹 개발에, 내가 만든 규칙과 화면으로 사람들이 직접 즐길 수 있다는 점에서 게임 개발에 관심을 갖게 되었습니다."
     bulletpoints:
       - "**웹 개발**: 정적 사이트 생성(Hugo), HTML·CSS, 배포 자동화(GitHub Actions)"
