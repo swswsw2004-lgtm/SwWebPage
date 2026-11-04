@@ -71,8 +71,8 @@ SwWebPage/
 | Hugo (extended) | 0.165.0 | 정적 사이트 생성 |
 | Go | 1.27.1 (1.25 이상 필요) | Hugo 모듈 다운로드 |
 | Node.js | 24 | Tailwind CSS 빌드 |
-| Python | 3.12 (Actions) / [3.12.0] (로컬) | 배포 준비·빌드 스크립트 |
-| Git | [2.55.0.windows.5] | 버전 관리 |
+| Python | 3.12 (Actions) / 3.12.0 (로컬) | 배포 준비·빌드 스크립트 |
+| Git | 2.55.0.windows.5 | 버전 관리 |
 
 Actions에서 쓰는 버전은 `.github/workflows/hugo-pages.yml`에 고정되어 있습니다.
 
