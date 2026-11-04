@@ -23,8 +23,8 @@ features:
       link: "about/"
 
   - title: "대표 활동"
-    image: "/images/service-2.png"
-    image_alt: ""
+    image: "/images/home/home-project.png"
+    image_alt: "노트북에 띄운 포트폴리오 사이트와 GitHub Actions의 build·deploy 성공 단계, 커밋 그래프를 표현한 일러스트"
     content: "초급프로젝트 과제로 Hugo 테마를 내 사이트로 바꾸고, GitHub Actions로 자동 배포되는 개인 포트폴리오 사이트를 만들었고 Unity를 이용하여 간단한 게임을 기획하고 간단한 게임을 만들어봤습니다."
     bulletpoints:
       - "2026년 11월 · 진행 중 (개인 과제)"
