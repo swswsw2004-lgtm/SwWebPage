@@ -1,13 +1,13 @@
 ---
 enable: true
-title: "Ready to build your next project with Hugo?"
+title: "제 활동을 더 보고 싶다면"
 image: "/images/call-to-action.png"
-image_alt: "Illustration of an astronaut floating among dashboard widgets"
-description: "Experience the future of web development with Hugoplate and Hugo. Build lightning-fast static sites with ease and flexibility."
+image_alt: ""
+description: "웹 개발과 게임 개발을 공부하며 만든 결과물과 작업 기록을 GitHub에 올리고 있습니다. 궁금한 점이 있다면 언제든 연락 주세요."
 button:
   enable: true
-  label: "Fork Deploy and Edit Online 🚀"
-  link: "https://app.sitepins.com/new/clone?name=Hugoplate&repository=https://github.com/zeon-studio/hugoplate?aff=hugoplate"
+  label: "GitHub 방문하기"
+  link: "https://github.com/swswsw2004-lgtm"
 
 # don't create a separate page
 build:
