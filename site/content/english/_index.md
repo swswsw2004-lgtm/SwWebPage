@@ -35,8 +35,8 @@ features:
       link: "blog/"
 
   - title: "Unity 2D 게임 제작"
-    image: "/images/service-3.png"
-    image_alt: ""
+    image: "/images/home/home-unity.png"
+    image_alt: "게임 엔진 에디터에서 픽셀 캐릭터를 이동시키고 동전을 먹어 점수가 오르는 장면과 Player.cs 스크립트 창을 표현한 일러스트"
     content: "Unity로 캐릭터 이동과 점수 기능을 구현한 간단한 2D 게임을 만들며 게임 개발의 기본 흐름을 경험했습니다."
     bulletpoints:
       - "2026년 8월 · 2026년 9월 완료"
