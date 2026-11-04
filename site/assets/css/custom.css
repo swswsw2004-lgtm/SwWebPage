@@ -4,3 +4,24 @@ body {
   word-break: keep-all;
   overflow-wrap: break-word;
 }
+/* 활동 글 이미지 크기 조절 */
+/* 글 맨 위 대표 이미지: 최대 800px */
+article > .mb-10 > picture img {
+  max-width: min(100%, 800px);
+  margin: 0 auto;
+}
+
+/* 본문 이미지: 가운데 정렬, 최대 640px */
+.content img {
+  display: block;
+  max-width: min(100%, 640px);
+  height: auto;
+  margin: 1.5rem auto;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+/* 모바일 화면 캡처는 세로로 길어서 더 작게: 최대 400px */
+.content img[src*="mobile"] {
+  max-width: min(100%, 400px);
+}
