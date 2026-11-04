@@ -150,9 +150,10 @@ GitHub Pages 설정은 **Settings → Pages → Build and deployment → Source:
 |---|---|---|---|---|
 | Hugoplate 테마 (레이아웃·CSS·JS) | `site/themes/template/`, `exampleSite/` | 외부 자료 | https://github.com/zeon-studio/hugoplate | MIT License (`LICENSE` 파일 유지, 사이트 하단에 출처 표기) |
 | 홈 배너 일러스트 (`home/home-banner.png`) | 홈 화면 맨 위 | AI 생성 (Claude가 SVG 코드로 제작) | 본인 요청으로 제작 | 직접 사용 |
-| 홈 일러스트 (`service-*.png`, `call-to-action.png`) | 홈 화면 카드·하단 배너 | 외부 자료 (테마 포함) | Hugoplate 테마 | 테마와 동일 (MIT) |
+| 홈 일러스트 (`call-to-action.png`) | 홈 화면 카드·하단 배너 | 외부 자료 (테마 포함) | Hugoplate 테마 | 테마와 동일 (MIT) |
 | 홈 관심 분야 카드 일러스트 (`home/home-interest.png`) | 홈 관심 분야 카드 | AI 생성 (Claude가 SVG 코드로 제작) | 본인 요청으로 제작 | 직접 사용 |
 | 홈 대표 활동 카드 일러스트 (`home/home-project.png`) | 홈 대표 활동 카드 | AI 생성 (Claude가 SVG 코드로 제작) | 본인 요청으로 제작 | 직접 사용 |
+| 홈 Unity 카드 일러스트 (`home/home-unity.png`) | 홈 Unity 카드 | AI 생성 (Claude가 SVG 코드로 제작) | 본인 요청으로 제작 | 직접 사용 |
 | 배포 준비 스크립트 (`prepare_github_pages.py`, `.github/pages_build.py`, `hugo-pages.yml`) | 배포 | 외부 자료 (수업 제공) | 2026학년도 초급프로젝트 수업 | 수업 과제용 |
 | 사이트 글 (소개·활동·연락처) | `site/content/english/` | 직접 작성 (AI 도움으로 초안 작성 후 직접 수정) | 본인 | - |
 | 사이트 설정 변경 | `site/hugo.toml`, `site/config/_default/`, `site/data/social.json` | 직접 수정 | 본인 | - |
