@@ -2,8 +2,8 @@
 banner:
   title: "안녕하세요, 안성우입니다"
   content: "웹 개발과 게임 개발에 관심을 갖고, 직접 만들어 보며 배우고 있는 대학생입니다."
-  image: "/images/banner.png"
-  image_alt: ""
+  image: "/images/home/home-banner.png"
+  image_alt: "등에 JBNU가 적힌 과잠을 입은 대학생이 의자에 앉아 코드와 게임 화면이 띄워진 모니터를 보고 있는 뒷모습 일러스트"
   button:
     enable: true
     label: "자기소개 보기"
