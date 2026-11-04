@@ -39,7 +39,7 @@ draft: false
 - 저장소: [https://github.com/swswsw2004-lgtm/SwWebPage](https://github.com/swswsw2004-lgtm/SwWebPage)
 - main 브랜치에 push하면 GitHub Actions가 자동으로 빌드·배포하고, 몇 분 뒤 공개 사이트에 반영됩니다.
 
-![1440px 데스크톱에서 본 포트폴리오 홈 화면](/images/activity/portfolio-home-desktop.png)
+![GitHub Actions에서 build와 deploy 단계가 모두 성공한 배포 실행 화면](/images/activity/portfolio-actions.png)
 
 ![390px 모바일 홈 화면, 왼쪽은 메뉴 닫힘·오른쪽은 메뉴 열림](/images/activity/portfolio-home-mobile.png)
 
