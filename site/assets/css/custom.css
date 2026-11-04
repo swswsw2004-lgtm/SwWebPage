@@ -1,1 +1,6 @@
 /* Add your own custom styles here */
+/* 한글이 단어 중간에서 줄바꿈되지 않도록 */
+body {
+  word-break: keep-all;
+  overflow-wrap: break-word;
+}
