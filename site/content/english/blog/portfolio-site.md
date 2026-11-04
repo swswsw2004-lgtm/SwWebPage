@@ -3,6 +3,7 @@ title: "Hugo와 GitHub Actions로 개인 포트폴리오 사이트 만들기"
 meta_title: ""
 description: "초급프로젝트 과제로 진행한 개인 포트폴리오 사이트 제작 기록"
 date: 2026-11-03T00:00:00+09:00
+image: "/images/activity/portfolio-home-desktop.png"
 categories: ["프로젝트"]
 author: "안성우"
 tags: ["Hugo", "GitHub Actions"]
@@ -37,6 +38,11 @@ draft: false
 - 공개 사이트: [https://swswsw2004-lgtm.github.io/SwWebPage/](https://swswsw2004-lgtm.github.io/SwWebPage/)
 - 저장소: [https://github.com/swswsw2004-lgtm/SwWebPage](https://github.com/swswsw2004-lgtm/SwWebPage)
 - main 브랜치에 push하면 GitHub Actions가 자동으로 빌드·배포하고, 몇 분 뒤 공개 사이트에 반영됩니다.
+
+![1440px 데스크톱에서 본 포트폴리오 홈 화면](/images/activity/portfolio-home-desktop.png)
+
+![390px 모바일 홈 화면, 왼쪽은 메뉴 닫힘·오른쪽은 메뉴 열림](/images/activity/portfolio-home-mobile.png)
+
 
 ## 배운 점과 개선 방향
 
