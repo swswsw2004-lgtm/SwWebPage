@@ -2,6 +2,7 @@
 title: "연락처"
 meta_title: "연락처"
 description: "안성우에게 연락하는 방법"
+layout: "about"
 draft: false
 ---
 
