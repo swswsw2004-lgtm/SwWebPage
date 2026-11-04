@@ -3,6 +3,7 @@ title: "Unity로 만든 2D 게임"
 meta_title: ""
 description: "캐릭터 이동과 점수 기능을 구현한 Unity 2D 게임 제작 경험"
 date: 2026-08-01T00:00:00+09:00
+image: "/images/activity/unity-game-play.png"
 categories: ["게임 개발"]
 author: "안성우"
 tags: ["Unity", "2D"]
