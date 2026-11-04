@@ -3,6 +3,7 @@ title: "Hugo와 GitHub Actions로 개인 포트폴리오 사이트 만들기"
 meta_title: ""
 description: "초급프로젝트 과제로 진행한 개인 포트폴리오 사이트 제작 기록"
 date: 2026-11-03T00:00:00+09:00
+image: "/images/activity/portfolio-home-desktop.png"
 categories: ["프로젝트"]
 author: "안성우"
 tags: ["Hugo", "GitHub Actions"]
