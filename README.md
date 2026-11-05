@@ -55,7 +55,6 @@ SwWebPage/
 │  ├─ themes/template/           # Hugoplate 테마 (수업 스크립트가 복사)
 │  ├─ layouts/                   # 테마 파일 재정의
 │  │  ├─ about.html              # 소개·연락처 제목을 h1으로
-│  │  ├─ 404.en.html             # 한국어 404 페이지
 │  │  └─ blog/single.html        # 공유 버튼 정리, 태그 표시 수정
 │  ├─ i18n/en.yaml               # 화면 문구 한국어 번역
 │  ├─ assets/css/custom.css      # 한글 줄바꿈, 활동 글 이미지 크기
