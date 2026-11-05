@@ -1,9 +1,8 @@
-home: Home
-read_more: Read More
-send: Send
-related_posts: Related Posts
-categories: Categories
-tags: Tags
+home: 홈
+read_more: 자세히 보기
+related_posts: 관련 글
+categories: 카테고리
+tags: 태그
 toc: Table of Contents
 share: Share
 search_input_placeholder: Search Post...
