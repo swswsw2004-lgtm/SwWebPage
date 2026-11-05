@@ -52,7 +52,15 @@ SwWebPage/
 │  │  ├─ contact/_index.md       # 연락처 페이지
 │  │  └─ sections/call-to-action.md  # 홈 하단 배너
 │  ├─ assets/images/             # 사이트에서 쓰는 이미지
-│  └─ themes/template/           # Hugoplate 테마 (수업 스크립트가 복사)
+│  ├─ themes/template/           # Hugoplate 테마 (수업 스크립트가 복사)
+│  ├─ layouts/                   # 테마 파일 재정의
+│  │  ├─ about.html              # 소개·연락처 제목을 h1으로
+│  │  ├─ 404.en.html             # 한국어 404 페이지
+│  │  └─ blog/single.html        # 공유 버튼 정리, 태그 표시 수정
+│  ├─ i18n/en.yaml               # 화면 문구 한국어 번역
+│  ├─ assets/css/custom.css      # 한글 줄바꿈, 활동 글 이미지 크기
+│  ├─ assets/images/home/        # 홈 일러스트 5종
+│  ├─ assets/images/activity/    # 활동 글 캡처
 ├─ exampleSite/                  # 원본 테마 예시 (사용하지 않음)
 └─ prepare_github_pages.py       # 수업 제공 배포 준비 스크립트
 ```
