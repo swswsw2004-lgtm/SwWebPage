@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "https://example.org"
+baseURL = "https://swswsw2004-lgtm.github.io/SwWebPage/"
 # Title of your website (required).
 title = "i'm seongwoo"
 # Your theme name
