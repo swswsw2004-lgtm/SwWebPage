@@ -150,7 +150,6 @@ GitHub Pages 설정은 **Settings → Pages → Build and deployment → Source:
 |---|---|---|---|---|
 | Hugoplate 테마 (레이아웃·CSS·JS) | `site/themes/template/`, `exampleSite/` | 외부 자료 | https://github.com/zeon-studio/hugoplate | MIT License (`LICENSE` 파일 유지, 사이트 하단에 출처 표기) |
 | 홈 배너 일러스트 (`home/home-banner.png`) | 홈 화면 맨 위 | AI 생성 (Claude가 SVG 코드로 제작) | 본인 요청으로 제작 | 직접 사용 |
-| 홈 일러스트 (`call-to-action.png`) | 홈 화면 카드·하단 배너 | 외부 자료 (테마 포함) | Hugoplate 테마 | 테마와 동일 (MIT) |
 | 홈 관심 분야 카드 일러스트 (`home/home-interest.png`) | 홈 관심 분야 카드 | AI 생성 (Claude가 SVG 코드로 제작) | 본인 요청으로 제작 | 직접 사용 |
 | 홈 대표 활동 카드 일러스트 (`home/home-project.png`) | 홈 대표 활동 카드 | AI 생성 (Claude가 SVG 코드로 제작) | 본인 요청으로 제작 | 직접 사용 |
 | 홈 Unity 카드 일러스트 (`home/home-unity.png`) | 홈 Unity 카드 | AI 생성 (Claude가 SVG 코드로 제작) | 본인 요청으로 제작 | 직접 사용 |
@@ -160,4 +159,5 @@ GitHub Pages 설정은 **Settings → Pages → Build and deployment → Source:
 | 사이트 설정 변경 | `site/hugo.toml`, `site/config/_default/`, `site/data/social.json` | 직접 수정 | 본인 | - |
 | 이 README | `README.md` | 직접 작성 (AI 도움으로 초안 작성 후 직접 수정) | 본인 | - |
 | 탭 아이콘·공유 미리보기 (`favicon.png`, `og-image.png`) | 브라우저 탭, 링크 공유 | AI 생성 (Claude가 SVG 코드로 제작) | 본인 요청으로 제작 | 직접 사용 |
+
 AI 도구 사용 내역은 과제 보고서의 "AI 활용 기록"에 정리했습니다.
