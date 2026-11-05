@@ -159,5 +159,5 @@ GitHub Pages 설정은 **Settings → Pages → Build and deployment → Source:
 | 사이트 글 (소개·활동·연락처) | `site/content/english/` | 직접 작성 (AI 도움으로 초안 작성 후 직접 수정) | 본인 | - |
 | 사이트 설정 변경 | `site/hugo.toml`, `site/config/_default/`, `site/data/social.json` | 직접 수정 | 본인 | - |
 | 이 README | `README.md` | 직접 작성 (AI 도움으로 초안 작성 후 직접 수정) | 본인 | - |
-
+| 탭 아이콘·공유 미리보기 (`favicon.png`, `og-image.png`) | 브라우저 탭, 링크 공유 | AI 생성 (Claude가 SVG 코드로 제작) | 본인 요청으로 제작 | 직접 사용 |
 AI 도구 사용 내역은 과제 보고서의 "AI 활용 기록"에 정리했습니다.
